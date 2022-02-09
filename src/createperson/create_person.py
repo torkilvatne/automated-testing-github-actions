@@ -15,7 +15,5 @@ class Person:
         self.age = age
         self.mood = mood
 
-
-if __name__ == '__main__':
-    person = Person("Torkil", 26, Mood.Smile)
-    print(person.mood)
+def createAPerson(name, age, mood) -> Person:
+    return Person(name, age, mood)
