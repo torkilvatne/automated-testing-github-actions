@@ -6,3 +6,7 @@ def test_create_a_person():
     assert torkil.name is "Torkil"
     assert torkil.age is 26
     assert torkil.mood is Mood.Sad
+
+
+
+# https://www.youtube.com/watch?v=DhUpxWjOhME
