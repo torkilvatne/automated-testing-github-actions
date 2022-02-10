@@ -59,4 +59,4 @@ the right Python version is not installed on the computer.
 * tox
 * pre-commit
 
-* <p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
