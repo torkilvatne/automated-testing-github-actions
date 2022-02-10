@@ -34,4 +34,9 @@ def test_invalid_mood():
 def test_fixture_person(basic_person):
     assert basic_person.name == "Torkil Basic"
 
+
+def test_print(capture_stdout):
+    print("This captures the stdout output into a replica buffer")
+    assert capture_stdout["stdout"] == "This captures the stdout output into a replica buffer\n"
+
 # https://www.youtube.com/watch?v=DhUpxWjOhME
