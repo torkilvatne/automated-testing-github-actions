@@ -2,7 +2,7 @@
 
 <div id="top"></div>
 
-![Tests](https://github.com/mCodingLLC/SlapThatLikeButton-TestingStarterProject/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/torkilvatne/automated-testing-github-actions/actions/workflows/tests.yml/badge.svg)
 
 ## Getting Started
 
